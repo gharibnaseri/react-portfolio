@@ -1,5 +1,6 @@
 import './app.scss'
 import Navbar from './component/navbar/Navbar';
+import {motion} from framer-motion
 const App = () => {
   return <div>
     <section>

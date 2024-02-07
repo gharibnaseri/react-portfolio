@@ -22,3 +22,14 @@ a{
     text-decoration: none;
     color: inherit;
 }
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+    position: absolute;
+}
+button{
+    position: absolute;
+    left: 200px;
+}
